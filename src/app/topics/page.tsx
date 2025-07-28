@@ -13,7 +13,7 @@ type Topic = {
 
 // Initial topic list
 const initialTopics: Topic[] = [
-  { name: "Arrays", path: "/arrays", unlocked: true },
+  { name: "Arrays", path: "/lesson", unlocked: true },
   { name: "Linked Lists", path: "/linked-lists", unlocked: false },
   { name: "Stacks", path: "/stacks", unlocked: false },
   { name: "Queues", path: "/queues", unlocked: false },
